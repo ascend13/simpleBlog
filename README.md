@@ -1,11 +1,3 @@
-# Vonut
-A personal blog system made by VueJS.
+# simpleBlog
+基于vue.js的博客发布系统
 
-# Take a try!
-```
-git clone https://github.com/jrainlau/vonut.git
-
-cd vonut && yarn
-
-yarn run dev
-```
